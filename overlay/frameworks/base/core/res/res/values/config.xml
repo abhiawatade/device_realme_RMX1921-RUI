@@ -405,7 +405,7 @@
     </string-array>
 
     <!-- Whether to show a custom view for FOD -->
-    <bool name="config_needCustomFODView">true</bool>
+    <bool name="config_supportsInDisplayFingerprint">true</bool>
 
     <!-- Whether the device supports Smart Pixels -->
     <bool name="config_enableSmartPixels">true</bool>
