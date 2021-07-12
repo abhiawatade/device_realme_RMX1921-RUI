@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixys_RMX1921.mk
+    $(LOCAL_DIR)/nad_RMX1921.mk
 
 COMMON_LUNCH_CHOICES := \
-    pixys_RMX1921-userdebug \
-    pixys_RMX1921-eng
+    nad_RMX1921-userdebug \
+    nad_RMX1921-eng

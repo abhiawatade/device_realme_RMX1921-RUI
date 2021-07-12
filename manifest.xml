@@ -709,8 +709,8 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
         <interface>
             <name>IPictureAdjustment</name>
             <instance>default</instance>
-        </interface>
-    </hal>
+        <interface>
+    </hal>           
     <hal format="hidl">
         <name>vendor.dolby.hardware.dms</name>
         <transport>hwbinder</transport>
